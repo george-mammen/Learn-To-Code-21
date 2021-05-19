@@ -49,4 +49,13 @@ Day 8 :
               ➼ Write a C Program to display each day of the week using switch case.
               
               ➼ Write a C Program to display a calculator with a menu consisting of each operation to perform on the numbers.  
+              
+
+Day 9 : 
+
+              ➼ Write a C Program to identify if a number is a palindrome or not.
+              
+              ➼ Write a C Program to compute the multiplication table of 1 - 5 using do-while.        
+ 
+ 
 
