@@ -50,12 +50,31 @@ Day 8 :
               
               ➼ Write a C Program to display a calculator with a menu consisting of each operation to perform on the numbers.  
               
-
 Day 9 : 
 
               ➼ Write a C Program to identify if a number is a palindrome or not.
               
               ➼ Write a C Program to compute the multiplication table of 1 - 5 using do-while.        
+              
+
+Day 10 : 
+
+              ➼ WACP to print the HCF of 2 numbers.
+              
+              ➼ Write a C program to print the following number pattern. (Similar to Floyds Triangle)
+                                               55555
+                                                4444
+                                                 333
+                                                  22
+                                                   1
+              
+
+Day 11 : 
+
+              ➼ Write a C program to find the roots of a quadratic equation.
+              
+              ➼ WACP to print the fibonacci series from 0 to n.               
+         
  
  
 
