@@ -77,9 +77,6 @@ Day 11 :
               
 
 Day 12 : 
-
-              ➼ Write a C program to read n values from the user and store it in the array. Reprint the values stored in the array 
-                 and also print the value of second element in the array.
                                
               ➼ myarray[10] ={10,25,8,14,3,23,1,0,12,9} 
                  Write a C program to
@@ -88,6 +85,7 @@ Day 12 :
                            ‣ Change the value of third element to 30 and print the new value.
                            ‣ Print all the elements stored in the new array.  
          
- 
+              ➼ Write a C program to read n values from the user and store it in the array. Reprint the values stored in the array 
+                 and also print the value of second element in the array.
  
 
