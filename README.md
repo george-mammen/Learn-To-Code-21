@@ -73,7 +73,20 @@ Day 11 :
 
               ➼ Write a C program to find the roots of a quadratic equation.
               
-              ➼ WACP to print the fibonacci series from 0 to n.               
+              ➼ WACP to print the fibonacci series from 0 to n.   
+              
+
+Day 12 : 
+
+              ➼ Write a C program to read n values from the user and store it in the array. Reprint the values stored in the array 
+                 and also print the value of second element in the array.
+                               
+              ➼ myarray[10] ={10,25,8,14,3,23,1,0,12,9} 
+                 Write a C program to
+                           ‣ Print the value of 4th element.
+                           ‣ Print the value of last element in the array.
+                           ‣ Change the value of third element to 30 and print the new value.
+                           ‣ Print all the elements stored in the new array.  
          
  
  
