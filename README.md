@@ -93,3 +93,9 @@ Day 13 :
               ➼ Write a C program to check whether a number present in the 1D array or not.
               
               ➼ Write a C program to find the frequency of odd and even numbers in the 1D array.
+              
+Day 14 : 
+
+              ➼ Write a program in C to determine the Frequency of a user inputted character from a string.
+              
+              ➼ Write a C program to switch the letter case of alphabets.
