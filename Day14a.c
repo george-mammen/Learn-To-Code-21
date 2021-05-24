@@ -4,8 +4,9 @@
 #include <stdlib.h>
 
 int main() {
-    char str[100],a,n,count;
-    gets(str);
+    char str[100],a;
+    int n,count = 0;
+    scanf("%[^\n]%*c", str);
     n= strlen(str);
     scanf("%c",&a);
     for (int i = 0;i < n;i++) {
@@ -14,4 +15,5 @@ int main() {
         }
     }
     printf("%d",count);
+    return 0;
 }
