@@ -88,4 +88,8 @@ Day 12 :
               ➼ Write a C program to read n values from the user and store it in the array. Reprint the values stored in the array 
                  and also print the value of second element in the array.
  
+Day 13 : 
 
+              ➼ Write a C program to check whether a number present in the 1D array or not.
+              
+              ➼ Write a C program to find the frequency of odd and even numbers in the 1D array.
