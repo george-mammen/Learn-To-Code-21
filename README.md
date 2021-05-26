@@ -99,3 +99,9 @@ Day 14 :
               ➼ Write a program in C to determine the Frequency of a user inputted character from a string.
               
               ➼ Write a C program to switch the letter case of alphabets.
+              
+Day 15 : 
+
+              ➼ Write a C Program to read a 2D Array and then display it.
+              
+              ➼ Write a C Program to read the values for a square 2D array and print its main/principal and secondary diagonals.
