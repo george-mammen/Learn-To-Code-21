@@ -105,3 +105,9 @@ Day 15 :
               ➼ Write a C Program to read a 2D Array and then display it.
               
               ➼ Write a C Program to read the values for a square 2D array and print its main/principal and secondary diagonals.
+              
+Day 16 : 
+
+              ➼ Write a C Program to read a 2D array. Then, search for a particular given element. If found, display each ouccurence of that element with its position(s).
+              
+              ➼ Write a C Program to display the product of two 2D arrays. Given values for both the 2D Arrays.             
