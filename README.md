@@ -110,4 +110,10 @@ Day 16 :
 
               ➼ Write a C Program to read a 2D array. Then, search for a particular given element. If found, display each ouccurence of that element with its position(s).
               
-              ➼ Write a C Program to display the product of two 2D arrays. Given values for both the 2D Arrays.             
+              ➼ Write a C Program to display the product of two 2D arrays. Given values for both the 2D Arrays.         
+              
+Day 17 : 
+
+              ➼ Write a C Program to arrange the elements in ascending order.
+              
+              ➼ Write a C program to find the minimum and maximum element of an array.           
