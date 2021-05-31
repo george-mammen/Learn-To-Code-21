@@ -116,4 +116,15 @@ Day 17 :
 
               ➼ Write a C Program to arrange the elements in ascending order.
               
-              ➼ Write a C program to find the minimum and maximum element of an array.           
+              ➼ Write a C program to find the minimum and maximum element of an array.        
+              
+Day 18 : 
+
+              ➼ Print the below format : 
+                                            1
+                                            1 2
+                                            1 2 3
+                                            1 2 3 4
+                                            1 2 3 4 5  with number of rows taken from user input.
+              
+              ➼ Write a C program to print inverted pyramid of *.                
