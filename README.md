@@ -141,3 +141,15 @@ Day 19 :
               ➼ Write a C program to check whether a given number is amstrong or not using functions.
               
               ➼ Write a C program to find the number of words in a string and  reverse the string using functions.
+              
+Day 20 : 
+
+              ➼ Write a C program to find the factorial of a given number using a recursive function.
+              
+Day 21 : 
+
+              ➼ Write a C program to find the second maximum element in an array of integer elements.
+              
+              ➼ Write a C program to count and display the number of Vowels, Consonants and spaces in a string.
+              
+              ➼ Write a C program to find the number of prime numbers in a array of integers.
