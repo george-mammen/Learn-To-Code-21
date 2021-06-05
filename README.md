@@ -153,3 +153,12 @@ Day 22 :
               ➼ Write a C program to count and display the number of Vowels, Consonants and spaces in a string.
               
               ➼ Write a C program to find the number of prime numbers in a array of integers.
+              
+Day 23 : 
+
+              ➼ Write a C Program to read an array and display it, using both the index method and traversal using pointers.
+              
+              ➼ WACP that that reads and displays details of 4 students. The 'structure' should contain the RollNo(int), Name(string) and marks(float).
+              
+                    
+              
