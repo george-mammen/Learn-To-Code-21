@@ -136,17 +136,17 @@ Day 19 :
               ➼ Write a C program using functions to input two numbers.If sum of the numbers is even, find the reverse of the sum .
                  If sum is odd check whether the sum is prime or not.           
 
-Day 19 : 
+Day 20 : 
 
               ➼ Write a C program to check whether a given number is amstrong or not using functions.
               
               ➼ Write a C program to find the number of words in a string and  reverse the string using functions.
               
-Day 20 : 
+Day 21 : 
 
               ➼ Write a C program to find the factorial of a given number using a recursive function.
               
-Day 21 : 
+Day 22 : 
 
               ➼ Write a C program to find the second maximum element in an array of integer elements.
               
