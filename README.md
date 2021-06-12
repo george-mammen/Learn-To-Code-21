@@ -160,5 +160,24 @@ Day 23 :
               
               ➼ WACP that that reads and displays details of 4 students. The 'structure' should contain the RollNo(int), Name(string) and marks(float).
               
-                    
+Day 24 : 
+
+              ➼ Write a C Program to read a 3x3 matrix and calculate it's determinant.
+              
+              ➼ An exam that has quite weird rules. Each question has a difficulty level in the form of an Integer. Now, the student can only solve the problems that have                        difficulty level less than or equal to 'X' . Now the rules are-
+
+                 Total score is equal to the maximum number of answers he/she has attempted without skipping a question.
+                 Student is allowed to skip just "one" question that will not be counted in the continuity of the questions.
+                 Note- Assume the student knows the solution to the problem he/she attempts and always starts the paper from first question.
+
+                 Given the number of Questions, N the maximum difficulty level of the problem student can solve , X ,and the difficulty level of each question is Aᵢ , can you                    help him determine his maximum score?  
+                 
+              ➼ Given an array of size N , the special sum of the array is defined as follows:
+
+                 (Sum of all elements in the array) * (N - p)
+                 where p = sum of distinct prime numbers in the array.
+              
+              ➼ Write a C program for a quiz section using functions.
+              
+              ➼ Write a C Program to find fibo-prime.
               
