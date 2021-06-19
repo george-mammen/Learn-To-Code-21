@@ -9,17 +9,17 @@ int main() {
   scanf("%d",&n);
     
   for(int i = 2;i <= n-2;i++) {
-    flag = 0;
+    temp = 0;
     a = b;
     b = c;
     c = a + b;
     for(int j = 2;j <= c/2;j++) {
       if (c % j == 0) {
-        flag = 1;
+        temp = 1;
         break;
       }
     }
-    if(flag == 0) {
+    if(temp == 0) {
       printf("%d is a fibo-prime.\n",c);
     }
     return 0;
