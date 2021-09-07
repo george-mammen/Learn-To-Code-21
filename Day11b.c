@@ -24,5 +24,7 @@ int main() {
         r2= sqrt(-determinant)/(2*a);
         printf("Complex: %.2f + i%.2f , %.2f - i%.2f",r1,r2,r1,r2);
     }
+    
+    printf("hello there");
 }
 
