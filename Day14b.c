@@ -14,4 +14,5 @@ int main() {
             str[i]=str[i]-32;
     }
     printf("%s",str);
+    printf("hi");
 }
