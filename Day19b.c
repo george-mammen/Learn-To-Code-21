@@ -42,6 +42,7 @@ int main() {
     else {
         isprime(sum);
     }
+    printf("hi");
   
     return 0;
 }
